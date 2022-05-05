@@ -15,6 +15,9 @@ As presented on the picture data is not readable.
 
 ## After using the function from this repository.
 Data plot is sliced into parts which consist 6 columns (first column from next figure is doubled with figure from earlier file).
+Every figure has names of columns on the top of file.
+Function genearate in the same time \*.png and \*.html file. It takes some time so to make it faster just comment the lines with \*.png files generation.
 ![Fisrt slice of matrix](https://github.com/jkowalski995/Scatter_matrix_plotly/blob/main/fig1.png)
 
-I know that the code is not perfect and maybe one ay I will wrap it into one `def`
+
+I know that the code is not perfect and maybe one day I will wrap it into one `def`
