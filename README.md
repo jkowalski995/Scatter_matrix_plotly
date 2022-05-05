@@ -7,6 +7,6 @@ to cut it into pieces and the present it to the user.
 
 ## The Data Matrix
 
-![Presentation of Data Matrix](/home/jakub/PycharmProjects/plotly_big_scatter _matrix/matrix.png)
+![Presentation of Data Matrix](https://github.com/jkowalski995/Scatter_matrix_plotly/blob/main/matrix.png)
 
 I know that the code is not perfect and maybe one ay I will wrap it into one `def`
